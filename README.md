@@ -96,6 +96,14 @@ Research Topic:
 
 ## Experimental Results
 
+## Model Performance
+
+Example evaluation results from the trained CNN model.
+
+### Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
 The model was trained and evaluated using histopathology image datasets for binary classification (cancerous vs non-cancerous).
 
 The CNN architecture based on **VGG16 transfer learning** demonstrated strong classification performance.
