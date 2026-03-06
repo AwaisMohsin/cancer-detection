@@ -94,6 +94,56 @@ Research Topic:
 
 ---
 
+## Experimental Results
+
+The model was trained and evaluated using histopathology image datasets for binary classification (cancerous vs non-cancerous).
+
+The CNN architecture based on **VGG16 transfer learning** demonstrated strong classification performance.
+
+Key evaluation metrics include:
+
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- Confusion Matrix
+
+The results demonstrate the effectiveness of deep learning techniques for assisting medical image analysis and early cancer detection.
+
+Future work may include:
+
+- Testing additional CNN architectures (ResNet, DenseNet)
+- Hyperparameter optimization
+- Larger medical image datasets
+- Deployment as a clinical decision-support tool
+
+---
+
+## Future Work
+
+Potential improvements for this research include:
+
+- Evaluating additional deep learning architectures such as **ResNet50, DenseNet201, and MobileNet**
+- Applying **data augmentation techniques** to improve generalization
+- Implementing **cross-validation** for more robust evaluation
+- Integrating **Grad-CAM visualization** to improve model interpretability
+- Deploying the model as a **web-based medical decision-support system**
+
+These improvements could further enhance the reliability and applicability of AI-driven medical diagnosis systems.
+
+---
+
+## Citation
+
+If you use this work for research or academic purposes, please cite:
+
+Muhammad Awais Mohsin  
+*Machine Learning Empowered Precision in Cancer Image Classification*  
+MSc Computer Science & Technology  
+Ulster University, United Kingdom
+
+---
+
 ## Author
 
 **Muhammad Awais Mohsin**  
